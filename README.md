@@ -28,4 +28,4 @@ Our Approach Utilizes **attention layers in the BiLSTM-CNN** to focus on critica
 
 # Results
 
-The Attention-Based BiLSTM-CNN model achieved the highest accuracy of 99.6%, outperforming both traditional and transformer-based models across all metrics.
+The Attention-Based BiLSTM-CNN model achieved the highest accuracy of 98.6%, outperforming both traditional and transformer-based models across all metrics.
